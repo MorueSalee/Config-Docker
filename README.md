@@ -18,7 +18,7 @@ Also includes .make file for easy console management. Here's the commands :
 
 Useful url :
 
-PHP URL :    http://localhost:8080/public/NomDeLaPage
+PHP URL :    http://localhost:8080/public/index.php
 
 PHP MyAdmin :    http://localhost:8081/
 
